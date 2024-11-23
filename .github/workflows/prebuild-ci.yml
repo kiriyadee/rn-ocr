@@ -2,7 +2,7 @@ name: React Native Build
 
 on:
   push:
-    branches: ["dev"]
+    branches: ["main"]
 jobs:
   ios-build:
     name: iOS Dev Build
